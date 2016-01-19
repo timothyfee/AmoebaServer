@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="AmoebaServer" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="bin/AmoebaServer" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin" />
+				<Option object_output="obj" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
+				<Option projectCompilerOptionsRelation="0" />
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-fomit-frame-pointer" />
+			<Add option="-fexpensive-optimizations" />
+			<Add option="-O2" />
+			<Add option="-march=native" />
+		</Compiler>
+		<Linker>
+			<Add library="ws2_32" />
+		</Linker>
+		<Unit filename="src/AmoebaCodec.hpp" />
+		<Unit filename="src/AmoebaInterpreter.hpp" />
+		<Unit filename="src/AmoebaNetworkClientController.hpp" />
+		<Unit filename="src/AmoebaNetworkMessages.hpp" />
+		<Unit filename="src/AmoebaNetworkServerController.hpp" />
+		<Unit filename="src/AmoebaServer.cpp" />
+		<Unit filename="src/BaseLibraries/Bindable.hpp" />
+		<Unit filename="src/BaseLibraries/DataBindingThread.hpp" />
+		<Unit filename="src/BaseLibraries/MathLib.hpp" />
+		<Unit filename="src/BaseLibraries/Sockets.hpp" />
+		<Unit filename="src/BaseLibraries/StandardFunctionsLib.hpp" />
+		<Unit filename="src/BaseLibraries/Thread.hpp" />
+		<Unit filename="src/CheckLoginThread.hpp" />
+		<Unit filename="src/Command.hpp" />
+		<Unit filename="src/CommandFactory.hpp" />
+		<Unit filename="src/Commands.hpp" />
+		<Unit filename="src/Compressor.hpp" />
+		<Unit filename="src/GameLib.hpp" />
+		<Unit filename="src/GameThread.hpp" />
+		<Unit filename="src/GameWorld.hpp" />
+		<Unit filename="src/GameWorldPoller.hpp" />
+		<Unit filename="src/GameWorldProperties.hpp" />
+		<Unit filename="src/Mercury/BundledMiddleWare/LagSimulator.hpp" />
+		<Unit filename="src/Mercury/BundledMiddleWare/Loggers/DataStreamLogger.hpp" />
+		<Unit filename="src/Mercury/BundledMiddleWare/Loggers/KeyValuePairLogger.hpp" />
+		<Unit filename="src/Mercury/Connection/Connection.hpp" />
+		<Unit filename="src/Mercury/Connection/ConnectionBuffer.hpp" />
+		<Unit filename="src/Mercury/Connection/ConnectionPool.hpp" />
+		<Unit filename="src/Mercury/Mercury.hpp" />
+		<Unit filename="src/Mercury/MiddleWareContainers/MessageWareContainer.hpp" />
+		<Unit filename="src/Mercury/MiddleWareContainers/PairWareContainer.hpp" />
+		<Unit filename="src/Mercury/MiddleWareContainers/StringWareContainer.hpp" />
+		<Unit filename="src/Mercury/MiddleWare/Cipher.hpp" />
+		<Unit filename="src/Mercury/MiddleWare/CompressionAlgorithm.hpp" />
+		<Unit filename="src/Mercury/MiddleWare/MessageWare.hpp" />
+		<Unit filename="src/Mercury/MiddleWare/PairWare.hpp" />
+		<Unit filename="src/Mercury/MiddleWare/StringWare.hpp" />
+		<Unit filename="src/Mercury/NetworkControllerComponents/Codec.hpp" />
+		<Unit filename="src/Mercury/NetworkControllerComponents/Interpreter.hpp" />
+		<Unit filename="src/Mercury/NetworkControllerComponents/NetworkMessageMailer.hpp" />
+		<Unit filename="src/Mercury/NetworkControllers/NetworkClientController.hpp" />
+		<Unit filename="src/Mercury/NetworkControllers/NetworkController.hpp" />
+		<Unit filename="src/Mercury/NetworkControllers/NetworkServerController.hpp" />
+		<Unit filename="src/Mercury/NetworkMessages/FrameworkeNetworkMessages.hpp" />
+		<Unit filename="src/Mercury/NetworkMessages/NetworkMessage.hpp" />
+		<Unit filename="src/Mercury/Threads/ConnectorThread.hpp" />
+		<Unit filename="src/Mercury/Threads/ReceiverThread.hpp" />
+		<Unit filename="src/Mercury/Threads/SenderThread.hpp" />
+		<Unit filename="src/Models/AIController.hpp" />
+		<Unit filename="src/Models/BigPellet.hpp" />
+		<Unit filename="src/Models/Blob.hpp" />
+		<Unit filename="src/Models/BlobController.hpp" />
+		<Unit filename="src/Models/Bomb.hpp" />
+		<Unit filename="src/Models/Models.hpp" />
+		<Unit filename="src/Models/Pellet.hpp" />
+		<Unit filename="src/Models/Player.hpp" />
+		<Unit filename="src/Models/Poison.hpp" />
+		<Unit filename="src/Models/Score.hpp" />
+		<Unit filename="src/Models/ScoreBoard.hpp" />
+		<Unit filename="src/Models/ScoreMultiplier.hpp" />
+		<Unit filename="src/Models/Splitter.hpp" />
+		<Unit filename="src/Models/ViewWindow.hpp" />
+		<Unit filename="src/PhysicsFramework/DefaultPhysicsEngine.hpp" />
+		<Unit filename="src/PhysicsFramework/PhysicalObject.hpp" />
+		<Unit filename="src/PhysicsFramework/PhysicsEngine.hpp" />
+		<Unit filename="src/PhysicsFramework/PhysicsFramework.hpp" />
+		<Unit filename="src/PhysicsFramework/TestPhysicalObject.hpp" />
+		<Unit filename="src/ScoreKeepingThread.hpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

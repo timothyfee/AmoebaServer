@@ -1,0 +1,2232 @@
+# depslib dependency file v1.0
+1448921089 source:c:\users\feet\desktop\amoeba\src\amoebaserver.cpp
+	"GameLib.hpp"
+
+1448923149 c:\users\feet\desktop\amoeba\src\gamelib.hpp
+	"NetworkFramework/NetworkFramework.hpp"
+	"NetworkMessages.hpp"
+	"AmoebaCodec.hpp"
+	"AmoebaInterpreter.hpp"
+	"AmoebaNetworkServerController.hpp"
+	"AmoebaNetworkClientController.hpp"
+	"PhysicsFramework/PhysicsFramework.hpp"
+	"Models.hpp"
+	"GameWorld.hpp"
+	"CheckLoginThread.hpp"
+	"Command.hpp"
+	"Commands.hpp"
+	"CommandFactory.hpp"
+	"GameWorldPoller.hpp"
+	"GameThread.hpp"
+
+1447784908 c:\users\feet\desktop\amoeba\src\standardfunctionslib.hpp
+	<cstdlib>
+	<iostream>
+	<unistd.h>
+	<conio.h>
+	<fstream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<deque>
+	<sstream>
+	<tchar.h>
+	<ctime>
+	<typeinfo>
+	<process.h>
+	<exception>
+	<ws2tcpip.h>
+	<windows.h>
+
+1447433516 c:\users\feet\desktop\amoeba\src\mathlib.hpp
+	<algorithm>
+	<cmath>
+
+1447795201 c:\users\feet\desktop\amoeba\src\networklib.hpp
+	"Network.hpp"
+	"Thread.hpp"
+	"Connection.hpp"
+	"ConnectionPool.hpp"
+	"NetworkMessage.hpp"
+	"NetworkMessages.hpp"
+	"Codec.hpp"
+	"AmoebaCodec.hpp"
+	"Interpreter.hpp"
+	"AmoebaInterpreter.hpp"
+	"ConnectionBuffer.hpp"
+	"MiddleWare.hpp"
+	"MiddleWareContainer.hpp"
+	"Cipher.hpp"
+	"CompressionAlgorithm.hpp"
+	"DataStreamLogger.hpp"
+	"NetworkMessageMailer.hpp"
+	"ConnectorThread.hpp"
+	"ReceiverThread.hpp"
+	"SenderThread.hpp"
+	"NetworkController.hpp"
+	"NetworkServerController.hpp"
+	"NetworkClientController.hpp"
+
+1445962712 c:\users\feet\desktop\amoeba\src\network.hpp
+	"StandardFunctionsLib.hpp"
+
+1447774857 c:\users\feet\desktop\amoeba\src\thread.hpp
+	<windows.h>
+	<process.h>
+	<exception>
+
+1446967604 c:\users\feet\desktop\amoeba\src\connectionclasses.hpp
+
+1438110516 c:\users\feet\desktop\amoeba\src\encryptionlayer.hpp
+
+1438110516 c:\users\feet\desktop\amoeba\src\compressionlayer.hpp
+
+1446490370 c:\users\feet\desktop\amoeba\src\lexinglayer.hpp
+
+1446581782 c:\users\feet\desktop\amoeba\src\parsinglayer.hpp
+	"NetworkMessages.hpp"
+
+1448408018 c:\users\feet\desktop\amoeba\src\networkmessages.hpp
+
+1446576497 c:\users\feet\desktop\amoeba\src\transceivinglayer.hpp
+
+1446502762 c:\users\feet\desktop\amoeba\src\threadmailers.hpp
+
+1447799430 c:\users\feet\desktop\amoeba\src\connectorthread.hpp
+
+1447786152 c:\users\feet\desktop\amoeba\src\senderthread.hpp
+
+1447696808 c:\users\feet\desktop\amoeba\src\receiverthread.hpp
+
+1446704964 c:\users\feet\desktop\amoeba\src\modelclasses.hpp
+
+1442415156 c:\users\feet\desktop\amoeba\src\physicalobjects.hpp
+
+1438110516 c:\users\feet\desktop\amoeba\src\userinterfaces.hpp
+
+1446499444 c:\users\feet\desktop\amoeba\src\controls.hpp
+
+1448138100 c:\users\feet\desktop\amoeba\src\physicsengine.hpp
+
+1448921478 c:\users\feet\desktop\amoeba\src\gameworld.hpp
+
+1446581782 c:\users\feet\desktop\amoeba\src\datatransferlayer.hpp
+	"Commands.hpp"
+
+1448560102 c:\users\feet\desktop\amoeba\src\commands.hpp
+
+1438110516 c:\users\feet\desktop\amoeba\src\datastoragelayer.hpp
+
+1438110516 c:\users\feet\desktop\amoeba\src\dataaccessthread.hpp
+
+1438617512 c:\users\feet\desktop\amoeba\src\threadlockerthread.hpp
+
+1448919085 c:\users\feet\desktop\amoeba\src\gamethread.hpp
+
+1447955974 c:\users\feet\desktop\amoeba\src\pollerthread.hpp
+
+1449372116 source:c:\users\timothy\desktop\amoeba\src\amoebaserver.cpp
+	"GameLib.hpp"
+
+1448923150 c:\users\timothy\desktop\amoeba\src\gamelib.hpp
+	"NetworkFramework/NetworkFramework.hpp"
+	"NetworkMessages.hpp"
+	"AmoebaCodec.hpp"
+	"AmoebaInterpreter.hpp"
+	"AmoebaNetworkServerController.hpp"
+	"AmoebaNetworkClientController.hpp"
+	"PhysicsFramework/PhysicsFramework.hpp"
+	"Models.hpp"
+	"GameWorld.hpp"
+	"CheckLoginThread.hpp"
+	"Command.hpp"
+	"Commands.hpp"
+	"CommandFactory.hpp"
+	"GameWorldPoller.hpp"
+	"GameThread.hpp"
+
+1447724128 c:\users\timothy\desktop\amoeba\src\standardfunctionslib.hpp
+	<cstdlib>
+	<iostream>
+	<unistd.h>
+	<conio.h>
+	<fstream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<deque>
+	<sstream>
+	<tchar.h>
+	<ctime>
+	<typeinfo>
+	<process.h>
+	<exception>
+	<ws2tcpip.h>
+	<windows.h>
+
+1447433516 c:\users\timothy\desktop\amoeba\src\mathlib.hpp
+	<algorithm>
+	<cmath>
+
+1447707878 c:\users\timothy\desktop\amoeba\src\networklib.hpp
+	"Network.hpp"
+	"Thread.hpp"
+	"Connection.hpp"
+	"ConnectionPool.hpp"
+	"NetworkMessage.hpp"
+	"NetworkMessages.hpp"
+	"MiddleWare.hpp"
+	"MiddleWareContainer.hpp"
+	"Cipher.hpp"
+	"CompressionAlgorithm.hpp"
+	"Codec.hpp"
+	"Interpreter.hpp"
+	"ConnectionBuffer.hpp"
+	"NetworkMessageMailer.hpp"
+	"ConnectorThread.hpp"
+	"ReceiverThread.hpp"
+	"SenderThread.hpp"
+
+1445962712 c:\users\timothy\desktop\amoeba\src\network.hpp
+	"StandardFunctionsLib.hpp"
+
+1447726627 c:\users\timothy\desktop\amoeba\src\thread.hpp
+	<windows.h>
+	<process.h>
+	<exception>
+
+1446576424 c:\users\timothy\desktop\amoeba\src\connectionclasses.hpp
+
+1446617429 c:\users\timothy\desktop\amoeba\src\encryptionlayer.hpp
+
+1446617429 c:\users\timothy\desktop\amoeba\src\compressionlayer.hpp
+
+1446490372 c:\users\timothy\desktop\amoeba\src\lexinglayer.hpp
+
+1446586230 c:\users\timothy\desktop\amoeba\src\parsinglayer.hpp
+	"NetworkMessages.hpp"
+
+1449158114 c:\users\timothy\desktop\amoeba\src\networkmessages.hpp
+
+1446576498 c:\users\timothy\desktop\amoeba\src\transceivinglayer.hpp
+
+1446502764 c:\users\timothy\desktop\amoeba\src\threadmailers.hpp
+
+1447696996 c:\users\timothy\desktop\amoeba\src\connectorthread.hpp
+
+1447689972 c:\users\timothy\desktop\amoeba\src\senderthread.hpp
+
+1447696808 c:\users\timothy\desktop\amoeba\src\receiverthread.hpp
+
+1443545532 c:\users\timothy\desktop\amoeba\src\modelclasses.hpp
+
+1442415156 c:\users\timothy\desktop\amoeba\src\physicalobjects.hpp
+
+1438110516 c:\users\timothy\desktop\amoeba\src\userinterfaces.hpp
+
+1446499444 c:\users\timothy\desktop\amoeba\src\controls.hpp
+
+1448138099 c:\users\timothy\desktop\amoeba\src\physicsengine.hpp
+
+1449358952 c:\users\timothy\desktop\amoeba\src\gameworld.hpp
+
+1446619336 c:\users\timothy\desktop\amoeba\src\datatransferlayer.hpp
+	"Commands.hpp"
+
+1449264789 c:\users\timothy\desktop\amoeba\src\commands.hpp
+
+1438110516 c:\users\timothy\desktop\amoeba\src\datastoragelayer.hpp
+
+1438110516 c:\users\timothy\desktop\amoeba\src\dataaccessthread.hpp
+
+1438617512 c:\users\timothy\desktop\amoeba\src\threadlockerthread.hpp
+
+1448919086 c:\users\timothy\desktop\amoeba\src\gamethread.hpp
+
+1447725963 c:\users\timothy\desktop\amoeba\src\pollerthread.hpp
+
+1446621463 c:\users\timothy\desktop\amoeba\src\codeclayer.hpp
+
+1446698289 c:\users\timothy\desktop\amoeba\src\messaginglayer.hpp
+
+1446615008 c:\users\timothy\desktop\amoeba\src\connectionlayer.hpp
+
+1446967604 c:\users\timothy\desktop\amoeba\src\networkmessagemailer.hpp
+
+1447713330 c:\users\feet\desktop\amoeba\src\networkmessage.hpp
+
+1447690584 c:\users\feet\desktop\amoeba\src\cipher.hpp
+
+1447696122 c:\users\feet\desktop\amoeba\src\compressionalgorithm.hpp
+
+1447777123 c:\users\feet\desktop\amoeba\src\codec.hpp
+
+1447777123 c:\users\feet\desktop\amoeba\src\interpreter.hpp
+
+1447438084 c:\users\feet\desktop\amoeba\src\connectionbuffer.hpp
+
+1446967604 c:\users\feet\desktop\amoeba\src\networkmessagemailer.hpp
+
+1448298748 c:\users\feet\desktop\amoeba\src\command.hpp
+
+1448408192 c:\users\feet\desktop\amoeba\src\commandfactory.hpp
+
+1448560938 c:\users\feet\desktop\amoeba\src\gameworldpoller.hpp
+
+1448318092 c:\users\feet\desktop\amoeba\src\physicalobject.hpp
+
+1448317092 c:\users\feet\desktop\amoeba\src\models.hpp
+	"Pellet.hpp"
+	"Blob.hpp"
+	"ViewWindow.hpp"
+	"Player.hpp"
+	"AIPlayer.hpp"
+
+1448919327 c:\users\feet\desktop\amoeba\src\blob.hpp
+
+1448223578 c:\users\feet\desktop\amoeba\src\pellet.hpp
+
+1447713330 c:\users\timothy\desktop\amoeba\src\networkmessage.hpp
+
+1447690584 c:\users\timothy\desktop\amoeba\src\cipher.hpp
+
+1447696122 c:\users\timothy\desktop\amoeba\src\compressionalgorithm.hpp
+
+1447448974 c:\users\timothy\desktop\amoeba\src\codec.hpp
+
+1447380478 c:\users\timothy\desktop\amoeba\src\interpreter.hpp
+
+1447438084 c:\users\timothy\desktop\amoeba\src\connectionbuffer.hpp
+
+1448223259 c:\users\timothy\desktop\amoeba\src\physicalobject.hpp
+
+1449387932 c:\users\timothy\desktop\amoeba\src\models.hpp
+	"Pellet.hpp"
+	"Blob.hpp"
+	"ViewWindow.hpp"
+	"Player.hpp"
+	"AIPlayer.hpp"
+
+1449356617 c:\users\timothy\desktop\amoeba\src\blob.hpp
+
+1449372848 c:\users\timothy\desktop\amoeba\src\pellet.hpp
+
+1449264841 c:\users\timothy\desktop\amoeba\src\viewwindow.hpp
+
+1448936826 c:\users\timothy\desktop\amoeba\src\player.hpp
+
+1448298748 c:\users\timothy\desktop\amoeba\src\command.hpp
+
+1449157273 c:\users\timothy\desktop\amoeba\src\commandfactory.hpp
+
+1449253110 c:\users\timothy\desktop\amoeba\src\gameworldpoller.hpp
+
+1448560488 c:\users\feet\desktop\amoeba\src\viewwindow.hpp
+
+1448314910 c:\users\feet\desktop\amoeba\src\player.hpp
+
+1447371998 c:\users\timothy\desktop\amoeba\src\connection.hpp
+
+1447371998 c:\users\timothy\desktop\amoeba\src\connectionpool.hpp
+
+1447371998 c:\users\feet\desktop\amoeba\src\connection.hpp
+
+1447791111 c:\users\feet\desktop\amoeba\src\connectionpool.hpp
+
+1447379156 source:f:\amoeba\src\amoebaserver.cpp
+	"GameLib.hpp"
+
+1447370488 f:\amoeba\src\gamelib.hpp
+	"StandardFunctionsLib.hpp"
+	"MathLib.hpp"
+	"NetworkLib.hpp"
+	"PhysicalObject.hpp"
+	"Models.hpp"
+	"PhysicsEngine.hpp"
+	"GameWorld.hpp"
+	"Command.hpp"
+	"Commands.hpp"
+	"CommandFactory.hpp"
+	"GameWorldPoller.hpp"
+	"GameThread.hpp"
+	"PollerThread.hpp"
+
+1446967604 f:\amoeba\src\standardfunctionslib.hpp
+	<cstdlib>
+	<iostream>
+	<unistd.h>
+	<conio.h>
+	<fstream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<deque>
+	<sstream>
+	<tchar.h>
+	<ctime>
+	<typeinfo>
+	<process.h>
+	<exception>
+	<ws2tcpip.h>
+	<windows.h>
+
+1447433516 f:\amoeba\src\mathlib.hpp
+	<algorithm>
+	<cmath>
+
+1447371998 f:\amoeba\src\networklib.hpp
+	"Network.hpp"
+	"Thread.hpp"
+	"Connection.hpp"
+	"ConnectionPool.hpp"
+	"NetworkMessage.hpp"
+	"NetworkMessages.hpp"
+	"Cipher.hpp"
+	"CompressionAlgorithm.hpp"
+	"Codec.hpp"
+	"Interpreter.hpp"
+	"ConnectionBuffer.hpp"
+	"NetworkMessageMailer.hpp"
+	"ConnectorThread.hpp"
+	"SenderThread.hpp"
+	"ReceiverThread.hpp"
+
+1445962712 f:\amoeba\src\network.hpp
+	"StandardFunctionsLib.hpp"
+
+1446830902 f:\amoeba\src\thread.hpp
+	<windows.h>
+	<process.h>
+	<exception>
+
+1447371998 f:\amoeba\src\connection.hpp
+
+1447371998 f:\amoeba\src\connectionpool.hpp
+
+1446756256 f:\amoeba\src\networkmessage.hpp
+
+1447347178 f:\amoeba\src\networkmessages.hpp
+
+1446617430 f:\amoeba\src\cipher.hpp
+
+1446617430 f:\amoeba\src\compressionalgorithm.hpp
+
+1447448974 f:\amoeba\src\codec.hpp
+
+1447380478 f:\amoeba\src\interpreter.hpp
+
+1447438084 f:\amoeba\src\connectionbuffer.hpp
+
+1446967604 f:\amoeba\src\networkmessagemailer.hpp
+
+1447378454 f:\amoeba\src\connectorthread.hpp
+
+1447085486 f:\amoeba\src\senderthread.hpp
+
+1446935128 f:\amoeba\src\receiverthread.hpp
+
+1447449646 f:\amoeba\src\physicalobject.hpp
+
+1447372312 f:\amoeba\src\models.hpp
+	"Pellet.hpp"
+	"Blob.hpp"
+	"ViewWindow.hpp"
+	"Player.hpp"
+
+1447374940 f:\amoeba\src\pellet.hpp
+
+1447442288 f:\amoeba\src\blob.hpp
+
+1447372836 f:\amoeba\src\viewwindow.hpp
+
+1447352190 f:\amoeba\src\player.hpp
+
+1447437318 f:\amoeba\src\physicsengine.hpp
+
+1447373944 f:\amoeba\src\gameworld.hpp
+
+1446756648 f:\amoeba\src\command.hpp
+
+1447380780 f:\amoeba\src\commands.hpp
+
+1447352498 f:\amoeba\src\commandfactory.hpp
+
+1447457136 f:\amoeba\src\gameworldpoller.hpp
+
+1446965658 f:\amoeba\src\gamethread.hpp
+
+1447085874 f:\amoeba\src\pollerthread.hpp
+
+1447689186 c:\users\feet\desktop\amoeba\src\middleware.hpp
+
+1447782433 c:\users\feet\desktop\amoeba\src\middlewarecontainer.hpp
+
+1447689186 c:\users\timothy\desktop\amoeba\src\middleware.hpp
+
+1447701028 c:\users\timothy\desktop\amoeba\src\middlewarecontainer.hpp
+
+1448406784 c:\users\feet\desktop\amoeba\src\datastreamlogger.hpp
+
+1448040708 c:\users\feet\desktop\amoeba\src\amoebacodec.hpp
+
+1448923022 c:\users\feet\desktop\amoeba\src\amoebainterpreter.hpp
+
+1447798734 c:\users\feet\desktop\amoeba\src\networkcontroller.hpp
+
+1447798277 c:\users\feet\desktop\amoeba\src\networkservercontroller.hpp
+
+1448924832 c:\users\feet\desktop\amoeba\src\amoebanetworkservercontroller.hpp
+
+1447798384 c:\users\feet\desktop\amoeba\src\networkclientcontroller.hpp
+
+1448138100 c:\users\feet\desktop\amoeba\src\amoebanetworkclientcontroller.hpp
+
+1448924611 c:\users\feet\desktop\amoeba\src\networkframework\networkframework.hpp
+	"StandardFunctionsLib.hpp"
+	"Sockets.hpp"
+	"Thread.hpp"
+	"Connection.hpp"
+	"ConnectionPool.hpp"
+	"NetworkMessage.hpp"
+	"NetworkFrameworkMessages.hpp"
+	"Codec.hpp"
+	"Interpreter.hpp"
+	"ConnectionBuffer.hpp"
+	"NetworkMessageMailer.hpp"
+	"StringWare.hpp"
+	"StringWareContainer.hpp"
+	"Cipher.hpp"
+	"CompressionAlgorithm.hpp"
+	"PairWare.hpp"
+	"PairWareContainer.hpp"
+	"MessageWare.hpp"
+	"MessageWareContainer.hpp"
+	"ConnectorThread.hpp"
+	"ReceiverThread.hpp"
+	"SenderThread.hpp"
+	"NetworkController.hpp"
+	"NetworkServerController.hpp"
+	"NetworkClientController.hpp"
+	"DataStreamLogger.hpp"
+	"KeyValuePairLogger.hpp"
+
+1447784910 c:\users\feet\desktop\amoeba\src\networkframework\standardfunctionslib.hpp
+	<cstdlib>
+	<iostream>
+	<unistd.h>
+	<conio.h>
+	<fstream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<deque>
+	<sstream>
+	<tchar.h>
+	<ctime>
+	<typeinfo>
+	<process.h>
+	<exception>
+	<ws2tcpip.h>
+	<windows.h>
+
+1447950454 c:\users\feet\desktop\amoeba\src\networkframework\sockets.hpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<windows.h>
+
+1448139032 c:\users\feet\desktop\amoeba\src\networkframework\thread.hpp
+	<windows.h>
+	<process.h>
+	<exception>
+	<unistd.h>
+
+1448141148 c:\users\feet\desktop\amoeba\src\networkframework\connection.hpp
+
+1447791112 c:\users\feet\desktop\amoeba\src\networkframework\connectionpool.hpp
+
+1447979952 c:\users\feet\desktop\amoeba\src\networkframework\networkmessage.hpp
+
+1448141116 c:\users\feet\desktop\amoeba\src\networkframework\networkframeworkmessages.hpp
+
+1448040128 c:\users\feet\desktop\amoeba\src\networkframework\codec.hpp
+
+1447953920 c:\users\feet\desktop\amoeba\src\networkframework\interpreter.hpp
+
+1448039780 c:\users\feet\desktop\amoeba\src\networkframework\connectionbuffer.hpp
+
+1448402128 c:\users\feet\desktop\amoeba\src\networkframework\networkmessagemailer.hpp
+
+1448923265 c:\users\feet\desktop\amoeba\src\networkframework\stringware.hpp
+
+1448923265 c:\users\feet\desktop\amoeba\src\networkframework\stringwarecontainer.hpp
+
+1448139032 c:\users\feet\desktop\amoeba\src\networkframework\cipher.hpp
+
+1447951494 c:\users\feet\desktop\amoeba\src\networkframework\compressionalgorithm.hpp
+
+1448923989 c:\users\feet\desktop\amoeba\src\networkframework\pairware.hpp
+
+1448923989 c:\users\feet\desktop\amoeba\src\networkframework\pairwarecontainer.hpp
+
+1448923888 c:\users\feet\desktop\amoeba\src\networkframework\messageware.hpp
+
+1448923888 c:\users\feet\desktop\amoeba\src\networkframework\messagewarecontainer.hpp
+
+1448141148 c:\users\feet\desktop\amoeba\src\networkframework\connectorthread.hpp
+
+1448923996 c:\users\feet\desktop\amoeba\src\networkframework\receiverthread.hpp
+
+1448924002 c:\users\feet\desktop\amoeba\src\networkframework\senderthread.hpp
+
+1448921732 c:\users\feet\desktop\amoeba\src\networkframework\networkcontroller.hpp
+
+1448139032 c:\users\feet\desktop\amoeba\src\networkframework\networkservercontroller.hpp
+
+1448139032 c:\users\feet\desktop\amoeba\src\networkframework\networkclientcontroller.hpp
+
+1448924612 c:\users\timothy\desktop\amoeba\src\networkframework\networkframework.hpp
+	"StandardFunctionsLib.hpp"
+	"Sockets.hpp"
+	"Thread.hpp"
+	"Connection.hpp"
+	"ConnectionPool.hpp"
+	"NetworkMessage.hpp"
+	"NetworkFrameworkMessages.hpp"
+	"Codec.hpp"
+	"Interpreter.hpp"
+	"ConnectionBuffer.hpp"
+	"NetworkMessageMailer.hpp"
+	"StringWare.hpp"
+	"StringWareContainer.hpp"
+	"Cipher.hpp"
+	"CompressionAlgorithm.hpp"
+	"PairWare.hpp"
+	"PairWareContainer.hpp"
+	"MessageWare.hpp"
+	"MessageWareContainer.hpp"
+	"ConnectorThread.hpp"
+	"ReceiverThread.hpp"
+	"SenderThread.hpp"
+	"NetworkController.hpp"
+	"NetworkServerController.hpp"
+	"NetworkClientController.hpp"
+	"DataStreamLogger.hpp"
+	"KeyValuePairLogger.hpp"
+
+1447784910 c:\users\timothy\desktop\amoeba\src\networkframework\standardfunctionslib.hpp
+	<cstdlib>
+	<iostream>
+	<unistd.h>
+	<conio.h>
+	<fstream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<deque>
+	<sstream>
+	<tchar.h>
+	<ctime>
+	<typeinfo>
+	<process.h>
+	<exception>
+	<ws2tcpip.h>
+	<windows.h>
+
+1447950454 c:\users\timothy\desktop\amoeba\src\networkframework\sockets.hpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<windows.h>
+
+1448139032 c:\users\timothy\desktop\amoeba\src\networkframework\thread.hpp
+	<windows.h>
+	<process.h>
+	<exception>
+	<unistd.h>
+
+1448925064 c:\users\timothy\desktop\amoeba\src\networkframework\connection.hpp
+
+1447791112 c:\users\timothy\desktop\amoeba\src\networkframework\connectionpool.hpp
+
+1447979952 c:\users\timothy\desktop\amoeba\src\networkframework\networkmessage.hpp
+
+1448141116 c:\users\timothy\desktop\amoeba\src\networkframework\networkframeworkmessages.hpp
+
+1448934272 c:\users\timothy\desktop\amoeba\src\networkframework\codec.hpp
+
+1447953920 c:\users\timothy\desktop\amoeba\src\networkframework\interpreter.hpp
+
+1448934272 c:\users\timothy\desktop\amoeba\src\networkframework\connectionbuffer.hpp
+
+1448402128 c:\users\timothy\desktop\amoeba\src\networkframework\networkmessagemailer.hpp
+
+1448923266 c:\users\timothy\desktop\amoeba\src\networkframework\stringware.hpp
+
+1448923266 c:\users\timothy\desktop\amoeba\src\networkframework\stringwarecontainer.hpp
+
+1448139032 c:\users\timothy\desktop\amoeba\src\networkframework\cipher.hpp
+
+1447951494 c:\users\timothy\desktop\amoeba\src\networkframework\compressionalgorithm.hpp
+
+1448923990 c:\users\timothy\desktop\amoeba\src\networkframework\pairware.hpp
+
+1448923990 c:\users\timothy\desktop\amoeba\src\networkframework\pairwarecontainer.hpp
+
+1448923890 c:\users\timothy\desktop\amoeba\src\networkframework\messageware.hpp
+
+1448923890 c:\users\timothy\desktop\amoeba\src\networkframework\messagewarecontainer.hpp
+
+1448141148 c:\users\timothy\desktop\amoeba\src\networkframework\connectorthread.hpp
+
+1448923998 c:\users\timothy\desktop\amoeba\src\networkframework\receiverthread.hpp
+
+1448924004 c:\users\timothy\desktop\amoeba\src\networkframework\senderthread.hpp
+
+1448925194 c:\users\timothy\desktop\amoeba\src\networkframework\networkcontroller.hpp
+
+1448139032 c:\users\timothy\desktop\amoeba\src\networkframework\networkservercontroller.hpp
+
+1448139032 c:\users\timothy\desktop\amoeba\src\networkframework\networkclientcontroller.hpp
+
+1448941218 c:\users\timothy\desktop\amoeba\src\amoebacodec.hpp
+
+1449158223 c:\users\timothy\desktop\amoeba\src\amoebainterpreter.hpp
+
+1448406784 c:\users\timothy\desktop\amoeba\src\datastreamlogger.hpp
+
+1448925828 c:\users\timothy\desktop\amoeba\src\amoebanetworkservercontroller.hpp
+
+1448138100 c:\users\timothy\desktop\amoeba\src\amoebanetworkclientcontroller.hpp
+
+1448917465 c:\users\feet\desktop\amoeba\src\aiplayer.hpp
+
+1448321176 c:\users\feet\desktop\amoeba\src\physicsframework\physicsframework.hpp
+	"MathLib.hpp"
+	"PhysicalObject.hpp"
+	"TestPhysicalObject.hpp"
+	"PhysicsEngine.hpp"
+	"DefaultPhysicsEngine.hpp"
+
+1448562156 c:\users\feet\desktop\amoeba\src\physicsframework\mathlib.hpp
+	<algorithm>
+	<cmath>
+
+1448562156 c:\users\feet\desktop\amoeba\src\physicsframework\physicalobject.hpp
+
+1448321062 c:\users\feet\desktop\amoeba\src\physicsframework\testphysicalobject.hpp
+
+1448321132 c:\users\feet\desktop\amoeba\src\physicsframework\physicsengine.hpp
+
+1448321062 c:\users\feet\desktop\amoeba\src\physicsframework\defaultphysicsengine.hpp
+
+1448390386 c:\users\feet\desktop\amoeba\src\checkloginthread.hpp
+
+1448315632 source:c:\users\woodi\desktop\amoeba\amoeba\src\amoebaserver.cpp
+	"GameLib.hpp"
+
+1448387152 c:\users\woodi\desktop\amoeba\amoeba\src\gamelib.hpp
+	"NetworkFramework/NetworkFramework.hpp"
+	"NetworkMessages.hpp"
+	"AmoebaCodec.hpp"
+	"AmoebaInterpreter.hpp"
+	"DataStreamLogger.hpp"
+	"AmoebaNetworkServerController.hpp"
+	"AmoebaNetworkClientController.hpp"
+	"PhysicsFramework/PhysicsFramework.hpp"
+	"Models.hpp"
+	"GameWorld.hpp"
+	"CheckLoginThread.hpp"
+	"Command.hpp"
+	"Commands.hpp"
+	"CommandFactory.hpp"
+	"GameWorldPoller.hpp"
+	"GameThread.hpp"
+
+1447959028 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\networkframework.hpp
+	"StandardFunctionsLib.hpp"
+	"Sockets.hpp"
+	"Thread.hpp"
+	"Connection.hpp"
+	"ConnectionPool.hpp"
+	"NetworkMessage.hpp"
+	"NetworkFrameworkMessages.hpp"
+	"Codec.hpp"
+	"Interpreter.hpp"
+	"ConnectionBuffer.hpp"
+	"NetworkMessageMailer.hpp"
+	"StringWare.hpp"
+	"StringWareContainer.hpp"
+	"Cipher.hpp"
+	"CompressionAlgorithm.hpp"
+	"PairWare.hpp"
+	"PairWareContainer.hpp"
+	"MessageWare.hpp"
+	"MessageWareContainer.hpp"
+	"ConnectorThread.hpp"
+	"ReceiverThread.hpp"
+	"SenderThread.hpp"
+	"NetworkController.hpp"
+	"NetworkServerController.hpp"
+	"NetworkClientController.hpp"
+
+1447784910 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\standardfunctionslib.hpp
+	<cstdlib>
+	<iostream>
+	<unistd.h>
+	<conio.h>
+	<fstream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<deque>
+	<sstream>
+	<tchar.h>
+	<ctime>
+	<typeinfo>
+	<process.h>
+	<exception>
+	<ws2tcpip.h>
+	<windows.h>
+
+1447950454 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\sockets.hpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<windows.h>
+
+1448139032 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\thread.hpp
+	<windows.h>
+	<process.h>
+	<exception>
+	<unistd.h>
+
+1448141148 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\connection.hpp
+
+1447791112 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\connectionpool.hpp
+
+1447979952 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\networkmessage.hpp
+
+1448141116 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\networkframeworkmessages.hpp
+
+1448040128 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\codec.hpp
+
+1447953920 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\interpreter.hpp
+
+1448039780 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\connectionbuffer.hpp
+
+1448139770 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\networkmessagemailer.hpp
+
+1447951494 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\stringware.hpp
+
+1447954318 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\stringwarecontainer.hpp
+
+1448139032 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\cipher.hpp
+
+1447951494 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\compressionalgorithm.hpp
+
+1447951950 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\pairware.hpp
+
+1447957928 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\pairwarecontainer.hpp
+
+1447953996 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\messageware.hpp
+
+1447957928 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\messagewarecontainer.hpp
+
+1448141148 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\connectorthread.hpp
+
+1448139032 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\receiverthread.hpp
+
+1448139032 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\senderthread.hpp
+
+1448139032 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\networkcontroller.hpp
+
+1448139032 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\networkservercontroller.hpp
+
+1448139032 c:\users\woodi\desktop\amoeba\amoeba\src\networkframework\networkclientcontroller.hpp
+
+1448380880 c:\users\woodi\desktop\amoeba\amoeba\src\networkmessages.hpp
+
+1448040708 c:\users\woodi\desktop\amoeba\amoeba\src\amoebacodec.hpp
+
+1448380880 c:\users\woodi\desktop\amoeba\amoeba\src\amoebainterpreter.hpp
+
+1447951494 c:\users\woodi\desktop\amoeba\amoeba\src\datastreamlogger.hpp
+
+1448138100 c:\users\woodi\desktop\amoeba\amoeba\src\amoebanetworkservercontroller.hpp
+
+1448138100 c:\users\woodi\desktop\amoeba\amoeba\src\amoebanetworkclientcontroller.hpp
+
+1448321176 c:\users\woodi\desktop\amoeba\amoeba\src\physicsframework\physicsframework.hpp
+	"MathLib.hpp"
+	"PhysicalObject.hpp"
+	"TestPhysicalObject.hpp"
+	"PhysicsEngine.hpp"
+	"DefaultPhysicsEngine.hpp"
+
+1448379270 c:\users\woodi\desktop\amoeba\amoeba\src\physicsframework\mathlib.hpp
+	<algorithm>
+	<cmath>
+
+1448380334 c:\users\woodi\desktop\amoeba\amoeba\src\physicsframework\physicalobject.hpp
+
+1448321062 c:\users\woodi\desktop\amoeba\amoeba\src\physicsframework\testphysicalobject.hpp
+
+1448321132 c:\users\woodi\desktop\amoeba\amoeba\src\physicsframework\physicsengine.hpp
+
+1448321062 c:\users\woodi\desktop\amoeba\amoeba\src\physicsframework\defaultphysicsengine.hpp
+
+1448317092 c:\users\woodi\desktop\amoeba\amoeba\src\models.hpp
+	"Pellet.hpp"
+	"Blob.hpp"
+	"ViewWindow.hpp"
+	"Player.hpp"
+	"AIPlayer.hpp"
+
+1448223578 c:\users\woodi\desktop\amoeba\amoeba\src\pellet.hpp
+
+1448379620 c:\users\woodi\desktop\amoeba\amoeba\src\blob.hpp
+
+1448169904 c:\users\woodi\desktop\amoeba\amoeba\src\viewwindow.hpp
+
+1448314910 c:\users\woodi\desktop\amoeba\amoeba\src\player.hpp
+
+1448379406 c:\users\woodi\desktop\amoeba\amoeba\src\aiplayer.hpp
+
+1448319320 c:\users\woodi\desktop\amoeba\amoeba\src\gameworld.hpp
+
+1448390386 c:\users\woodi\desktop\amoeba\amoeba\src\checkloginthread.hpp
+
+1448298748 c:\users\woodi\desktop\amoeba\amoeba\src\command.hpp
+
+1448394128 c:\users\woodi\desktop\amoeba\amoeba\src\commands.hpp
+
+1448388762 c:\users\woodi\desktop\amoeba\amoeba\src\commandfactory.hpp
+
+1448380880 c:\users\woodi\desktop\amoeba\amoeba\src\gameworldpoller.hpp
+
+1448388342 c:\users\woodi\desktop\amoeba\amoeba\src\gamethread.hpp
+
+1448315632 source:c:\users\woodi\desktop\amoeba\src\amoebaserver.cpp
+	"GameLib.hpp"
+
+1448387152 c:\users\woodi\desktop\amoeba\src\gamelib.hpp
+	"NetworkFramework/NetworkFramework.hpp"
+	"NetworkMessages.hpp"
+	"AmoebaCodec.hpp"
+	"AmoebaInterpreter.hpp"
+	"DataStreamLogger.hpp"
+	"AmoebaNetworkServerController.hpp"
+	"AmoebaNetworkClientController.hpp"
+	"PhysicsFramework/PhysicsFramework.hpp"
+	"Models.hpp"
+	"GameWorld.hpp"
+	"CheckLoginThread.hpp"
+	"Command.hpp"
+	"Commands.hpp"
+	"CommandFactory.hpp"
+	"GameWorldPoller.hpp"
+	"GameThread.hpp"
+
+1447959028 c:\users\woodi\desktop\amoeba\src\networkframework\networkframework.hpp
+	"StandardFunctionsLib.hpp"
+	"Sockets.hpp"
+	"Thread.hpp"
+	"Connection.hpp"
+	"ConnectionPool.hpp"
+	"NetworkMessage.hpp"
+	"NetworkFrameworkMessages.hpp"
+	"Codec.hpp"
+	"Interpreter.hpp"
+	"ConnectionBuffer.hpp"
+	"NetworkMessageMailer.hpp"
+	"StringWare.hpp"
+	"StringWareContainer.hpp"
+	"Cipher.hpp"
+	"CompressionAlgorithm.hpp"
+	"PairWare.hpp"
+	"PairWareContainer.hpp"
+	"MessageWare.hpp"
+	"MessageWareContainer.hpp"
+	"ConnectorThread.hpp"
+	"ReceiverThread.hpp"
+	"SenderThread.hpp"
+	"NetworkController.hpp"
+	"NetworkServerController.hpp"
+	"NetworkClientController.hpp"
+
+1447784910 c:\users\woodi\desktop\amoeba\src\networkframework\standardfunctionslib.hpp
+	<cstdlib>
+	<iostream>
+	<unistd.h>
+	<conio.h>
+	<fstream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<deque>
+	<sstream>
+	<tchar.h>
+	<ctime>
+	<typeinfo>
+	<process.h>
+	<exception>
+	<ws2tcpip.h>
+	<windows.h>
+
+1447950454 c:\users\woodi\desktop\amoeba\src\networkframework\sockets.hpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<windows.h>
+
+1448139032 c:\users\woodi\desktop\amoeba\src\networkframework\thread.hpp
+	<windows.h>
+	<process.h>
+	<exception>
+	<unistd.h>
+
+1448141148 c:\users\woodi\desktop\amoeba\src\networkframework\connection.hpp
+
+1447791112 c:\users\woodi\desktop\amoeba\src\networkframework\connectionpool.hpp
+
+1447979952 c:\users\woodi\desktop\amoeba\src\networkframework\networkmessage.hpp
+
+1448141116 c:\users\woodi\desktop\amoeba\src\networkframework\networkframeworkmessages.hpp
+
+1448040128 c:\users\woodi\desktop\amoeba\src\networkframework\codec.hpp
+
+1447953920 c:\users\woodi\desktop\amoeba\src\networkframework\interpreter.hpp
+
+1448039780 c:\users\woodi\desktop\amoeba\src\networkframework\connectionbuffer.hpp
+
+1448402127 c:\users\woodi\desktop\amoeba\src\networkframework\networkmessagemailer.hpp
+
+1447951494 c:\users\woodi\desktop\amoeba\src\networkframework\stringware.hpp
+
+1447954318 c:\users\woodi\desktop\amoeba\src\networkframework\stringwarecontainer.hpp
+
+1448139032 c:\users\woodi\desktop\amoeba\src\networkframework\cipher.hpp
+
+1447951494 c:\users\woodi\desktop\amoeba\src\networkframework\compressionalgorithm.hpp
+
+1447951950 c:\users\woodi\desktop\amoeba\src\networkframework\pairware.hpp
+
+1447957928 c:\users\woodi\desktop\amoeba\src\networkframework\pairwarecontainer.hpp
+
+1447953996 c:\users\woodi\desktop\amoeba\src\networkframework\messageware.hpp
+
+1447957928 c:\users\woodi\desktop\amoeba\src\networkframework\messagewarecontainer.hpp
+
+1448141148 c:\users\woodi\desktop\amoeba\src\networkframework\connectorthread.hpp
+
+1448139032 c:\users\woodi\desktop\amoeba\src\networkframework\receiverthread.hpp
+
+1448139032 c:\users\woodi\desktop\amoeba\src\networkframework\senderthread.hpp
+
+1448409194 c:\users\woodi\desktop\amoeba\src\networkframework\networkcontroller.hpp
+
+1448139032 c:\users\woodi\desktop\amoeba\src\networkframework\networkservercontroller.hpp
+
+1448139032 c:\users\woodi\desktop\amoeba\src\networkframework\networkclientcontroller.hpp
+
+1448408017 c:\users\woodi\desktop\amoeba\src\networkmessages.hpp
+
+1448040708 c:\users\woodi\desktop\amoeba\src\amoebacodec.hpp
+
+1448408017 c:\users\woodi\desktop\amoeba\src\amoebainterpreter.hpp
+
+1448406783 c:\users\woodi\desktop\amoeba\src\datastreamlogger.hpp
+
+1448408060 c:\users\woodi\desktop\amoeba\src\amoebanetworkservercontroller.hpp
+
+1448138100 c:\users\woodi\desktop\amoeba\src\amoebanetworkclientcontroller.hpp
+
+1448321176 c:\users\woodi\desktop\amoeba\src\physicsframework\physicsframework.hpp
+	"MathLib.hpp"
+	"PhysicalObject.hpp"
+	"TestPhysicalObject.hpp"
+	"PhysicsEngine.hpp"
+	"DefaultPhysicsEngine.hpp"
+
+1448405798 c:\users\woodi\desktop\amoeba\src\physicsframework\mathlib.hpp
+	<algorithm>
+	<cmath>
+
+1448380334 c:\users\woodi\desktop\amoeba\src\physicsframework\physicalobject.hpp
+
+1448321062 c:\users\woodi\desktop\amoeba\src\physicsframework\testphysicalobject.hpp
+
+1448321132 c:\users\woodi\desktop\amoeba\src\physicsframework\physicsengine.hpp
+
+1448321062 c:\users\woodi\desktop\amoeba\src\physicsframework\defaultphysicsengine.hpp
+
+1448317092 c:\users\woodi\desktop\amoeba\src\models.hpp
+	"Pellet.hpp"
+	"Blob.hpp"
+	"ViewWindow.hpp"
+	"Player.hpp"
+	"AIPlayer.hpp"
+
+1448223578 c:\users\woodi\desktop\amoeba\src\pellet.hpp
+
+1448409765 c:\users\woodi\desktop\amoeba\src\blob.hpp
+
+1448396952 c:\users\woodi\desktop\amoeba\src\viewwindow.hpp
+
+1448314910 c:\users\woodi\desktop\amoeba\src\player.hpp
+
+1448379406 c:\users\woodi\desktop\amoeba\src\aiplayer.hpp
+
+1448319320 c:\users\woodi\desktop\amoeba\src\gameworld.hpp
+
+1448390386 c:\users\woodi\desktop\amoeba\src\checkloginthread.hpp
+
+1448298748 c:\users\woodi\desktop\amoeba\src\command.hpp
+
+1448408191 c:\users\woodi\desktop\amoeba\src\commands.hpp
+
+1448408191 c:\users\woodi\desktop\amoeba\src\commandfactory.hpp
+
+1448380880 c:\users\woodi\desktop\amoeba\src\gameworldpoller.hpp
+
+1448402127 c:\users\woodi\desktop\amoeba\src\gamethread.hpp
+
+1448321176 c:\users\timothy\desktop\amoeba\src\physicsframework\physicsframework.hpp
+	"MathLib.hpp"
+	"PhysicalObject.hpp"
+	"TestPhysicalObject.hpp"
+	"PhysicsEngine.hpp"
+	"DefaultPhysicsEngine.hpp"
+
+1449371528 c:\users\timothy\desktop\amoeba\src\physicsframework\mathlib.hpp
+	<algorithm>
+	<cmath>
+
+1449353500 c:\users\timothy\desktop\amoeba\src\physicsframework\physicalobject.hpp
+
+1448321062 c:\users\timothy\desktop\amoeba\src\physicsframework\testphysicalobject.hpp
+
+1448321132 c:\users\timothy\desktop\amoeba\src\physicsframework\physicsengine.hpp
+
+1449387330 c:\users\timothy\desktop\amoeba\src\physicsframework\defaultphysicsengine.hpp
+
+1449375276 c:\users\timothy\desktop\amoeba\src\aiplayer.hpp
+
+1448390386 c:\users\timothy\desktop\amoeba\src\checkloginthread.hpp
+
+1448923681 c:\users\feet\desktop\amoeba\src\networkframework\datastreamlogger.hpp
+
+1448924678 c:\users\feet\desktop\amoeba\src\networkframework\keyvaluepairlogger.hpp
+
+1448923682 c:\users\timothy\desktop\amoeba\src\networkframework\datastreamlogger.hpp
+
+1448924680 c:\users\timothy\desktop\amoeba\src\networkframework\keyvaluepairlogger.hpp
+
+1449372118 source:c:\users\woodi\desktop\amoebaswerver\src\amoebaserver.cpp
+	"GameLib.hpp"
+
+1448923150 c:\users\woodi\desktop\amoebaswerver\src\gamelib.hpp
+	"NetworkFramework/NetworkFramework.hpp"
+	"NetworkMessages.hpp"
+	"AmoebaCodec.hpp"
+	"AmoebaInterpreter.hpp"
+	"AmoebaNetworkServerController.hpp"
+	"AmoebaNetworkClientController.hpp"
+	"PhysicsFramework/PhysicsFramework.hpp"
+	"Models.hpp"
+	"GameWorld.hpp"
+	"CheckLoginThread.hpp"
+	"Command.hpp"
+	"Commands.hpp"
+	"CommandFactory.hpp"
+	"GameWorldPoller.hpp"
+	"GameThread.hpp"
+
+1448924612 c:\users\woodi\desktop\amoebaswerver\src\networkframework\networkframework.hpp
+	"StandardFunctionsLib.hpp"
+	"Sockets.hpp"
+	"Thread.hpp"
+	"Connection.hpp"
+	"ConnectionPool.hpp"
+	"NetworkMessage.hpp"
+	"NetworkFrameworkMessages.hpp"
+	"Codec.hpp"
+	"Interpreter.hpp"
+	"ConnectionBuffer.hpp"
+	"NetworkMessageMailer.hpp"
+	"StringWare.hpp"
+	"StringWareContainer.hpp"
+	"Cipher.hpp"
+	"CompressionAlgorithm.hpp"
+	"PairWare.hpp"
+	"PairWareContainer.hpp"
+	"MessageWare.hpp"
+	"MessageWareContainer.hpp"
+	"ConnectorThread.hpp"
+	"ReceiverThread.hpp"
+	"SenderThread.hpp"
+	"NetworkController.hpp"
+	"NetworkServerController.hpp"
+	"NetworkClientController.hpp"
+	"DataStreamLogger.hpp"
+	"KeyValuePairLogger.hpp"
+
+1447784910 c:\users\woodi\desktop\amoebaswerver\src\networkframework\standardfunctionslib.hpp
+	<cstdlib>
+	<iostream>
+	<unistd.h>
+	<conio.h>
+	<fstream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<deque>
+	<sstream>
+	<tchar.h>
+	<ctime>
+	<typeinfo>
+	<process.h>
+	<exception>
+	<ws2tcpip.h>
+	<windows.h>
+
+1447950454 c:\users\woodi\desktop\amoebaswerver\src\networkframework\sockets.hpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<windows.h>
+
+1448139032 c:\users\woodi\desktop\amoebaswerver\src\networkframework\thread.hpp
+	<windows.h>
+	<process.h>
+	<exception>
+	<unistd.h>
+
+1448925064 c:\users\woodi\desktop\amoebaswerver\src\networkframework\connection.hpp
+
+1447791112 c:\users\woodi\desktop\amoebaswerver\src\networkframework\connectionpool.hpp
+
+1447979952 c:\users\woodi\desktop\amoebaswerver\src\networkframework\networkmessage.hpp
+
+1448141116 c:\users\woodi\desktop\amoebaswerver\src\networkframework\networkframeworkmessages.hpp
+
+1448934272 c:\users\woodi\desktop\amoebaswerver\src\networkframework\codec.hpp
+
+1447953920 c:\users\woodi\desktop\amoebaswerver\src\networkframework\interpreter.hpp
+
+1448934272 c:\users\woodi\desktop\amoebaswerver\src\networkframework\connectionbuffer.hpp
+
+1448402128 c:\users\woodi\desktop\amoebaswerver\src\networkframework\networkmessagemailer.hpp
+
+1448923266 c:\users\woodi\desktop\amoebaswerver\src\networkframework\stringware.hpp
+
+1448923266 c:\users\woodi\desktop\amoebaswerver\src\networkframework\stringwarecontainer.hpp
+
+1448139032 c:\users\woodi\desktop\amoebaswerver\src\networkframework\cipher.hpp
+
+1447951494 c:\users\woodi\desktop\amoebaswerver\src\networkframework\compressionalgorithm.hpp
+
+1448923990 c:\users\woodi\desktop\amoebaswerver\src\networkframework\pairware.hpp
+
+1448923990 c:\users\woodi\desktop\amoebaswerver\src\networkframework\pairwarecontainer.hpp
+
+1448923890 c:\users\woodi\desktop\amoebaswerver\src\networkframework\messageware.hpp
+
+1448923890 c:\users\woodi\desktop\amoebaswerver\src\networkframework\messagewarecontainer.hpp
+
+1448141148 c:\users\woodi\desktop\amoebaswerver\src\networkframework\connectorthread.hpp
+
+1448923998 c:\users\woodi\desktop\amoebaswerver\src\networkframework\receiverthread.hpp
+
+1448924004 c:\users\woodi\desktop\amoebaswerver\src\networkframework\senderthread.hpp
+
+1448925194 c:\users\woodi\desktop\amoebaswerver\src\networkframework\networkcontroller.hpp
+
+1448139032 c:\users\woodi\desktop\amoebaswerver\src\networkframework\networkservercontroller.hpp
+
+1448139032 c:\users\woodi\desktop\amoebaswerver\src\networkframework\networkclientcontroller.hpp
+
+1448923682 c:\users\woodi\desktop\amoebaswerver\src\networkframework\datastreamlogger.hpp
+
+1448924680 c:\users\woodi\desktop\amoebaswerver\src\networkframework\keyvaluepairlogger.hpp
+
+1449158116 c:\users\woodi\desktop\amoebaswerver\src\networkmessages.hpp
+
+1448941218 c:\users\woodi\desktop\amoebaswerver\src\amoebacodec.hpp
+
+1449158224 c:\users\woodi\desktop\amoebaswerver\src\amoebainterpreter.hpp
+
+1448925828 c:\users\woodi\desktop\amoebaswerver\src\amoebanetworkservercontroller.hpp
+
+1448138100 c:\users\woodi\desktop\amoebaswerver\src\amoebanetworkclientcontroller.hpp
+
+1448321176 c:\users\woodi\desktop\amoebaswerver\src\physicsframework\physicsframework.hpp
+	"MathLib.hpp"
+	"PhysicalObject.hpp"
+	"TestPhysicalObject.hpp"
+	"PhysicsEngine.hpp"
+	"DefaultPhysicsEngine.hpp"
+
+1449371530 c:\users\woodi\desktop\amoebaswerver\src\physicsframework\mathlib.hpp
+	<algorithm>
+	<cmath>
+
+1449353502 c:\users\woodi\desktop\amoebaswerver\src\physicsframework\physicalobject.hpp
+
+1448321062 c:\users\woodi\desktop\amoebaswerver\src\physicsframework\testphysicalobject.hpp
+
+1448321132 c:\users\woodi\desktop\amoebaswerver\src\physicsframework\physicsengine.hpp
+
+1449387332 c:\users\woodi\desktop\amoebaswerver\src\physicsframework\defaultphysicsengine.hpp
+
+1449388258 c:\users\woodi\desktop\amoebaswerver\src\models.hpp
+	"Pellet.hpp"
+	"Blob.hpp"
+	"ViewWindow.hpp"
+	"Player.hpp"
+	"AIPlayer.hpp"
+
+1449372850 c:\users\woodi\desktop\amoebaswerver\src\pellet.hpp
+
+1449356618 c:\users\woodi\desktop\amoebaswerver\src\blob.hpp
+
+1449264842 c:\users\woodi\desktop\amoebaswerver\src\viewwindow.hpp
+
+1448936826 c:\users\woodi\desktop\amoebaswerver\src\player.hpp
+
+1449392592 c:\users\woodi\desktop\amoebaswerver\src\aiplayer.hpp
+
+1449388258 c:\users\woodi\desktop\amoebaswerver\src\gameworld.hpp
+
+1448390386 c:\users\woodi\desktop\amoebaswerver\src\checkloginthread.hpp
+
+1448298748 c:\users\woodi\desktop\amoebaswerver\src\command.hpp
+
+1449264790 c:\users\woodi\desktop\amoebaswerver\src\commands.hpp
+
+1449157274 c:\users\woodi\desktop\amoebaswerver\src\commandfactory.hpp
+
+1449253112 c:\users\woodi\desktop\amoebaswerver\src\gameworldpoller.hpp
+
+1448919086 c:\users\woodi\desktop\amoebaswerver\src\gamethread.hpp
+
+1452534558 source:c:\users\feet\desktop\amoebaserver\src\amoebaserver.cpp
+	"GameLib.hpp"
+
+1452527974 c:\users\feet\desktop\amoebaserver\src\gamelib.hpp
+	"MercuryFramework/Mercury.hpp"
+	"AmoebaNetworkMessages.hpp"
+	"Compressor.hpp"
+	"AmoebaCodec.hpp"
+	"AmoebaInterpreter.hpp"
+	"AmoebaNetworkServerController.hpp"
+	"AmoebaNetworkClientController.hpp"
+	"PhysicsFramework/PhysicsFramework.hpp"
+	"BaseLibraries/Bindable.hpp"
+	"BaseLibraries/DataBindingThread.hpp"
+	"GameWorldProperties.hpp"
+	"Models/Models.hpp"
+	"GameWorld.hpp"
+	"ScoreKeepingThread.hpp"
+	"CheckLoginThread.hpp"
+	"Command.hpp"
+	"Commands.hpp"
+	"CommandFactory.hpp"
+	"GameWorldPoller.hpp"
+	"GameThread.hpp"
+
+1451403024 c:\users\feet\desktop\amoebaserver\src\networkframework\networkframework.hpp
+	"..\BaseLibraries\StandardFunctionsLib.hpp"
+	"..\BaseLibraries\Sockets.hpp"
+	"..\BaseLibraries\Thread.hpp"
+	"Connection.hpp"
+	"ConnectionPool.hpp"
+	"NetworkMessage.hpp"
+	"NetworkFrameworkMessages.hpp"
+	"Codec.hpp"
+	"Interpreter.hpp"
+	"ConnectionBuffer.hpp"
+	"NetworkMessageMailer.hpp"
+	"StringWare.hpp"
+	"StringWareContainer.hpp"
+	"Cipher.hpp"
+	"CompressionAlgorithm.hpp"
+	"PairWare.hpp"
+	"PairWareContainer.hpp"
+	"MessageWare.hpp"
+	"MessageWareContainer.hpp"
+	"ConnectorThread.hpp"
+	"ReceiverThread.hpp"
+	"SenderThread.hpp"
+	"NetworkController.hpp"
+	"NetworkServerController.hpp"
+	"NetworkClientController.hpp"
+	"DataStreamLogger.hpp"
+	"KeyValuePairLogger.hpp"
+
+1452548008 c:\users\feet\desktop\amoebaserver\src\baselibraries\standardfunctionslib.hpp
+	<cstdlib>
+	<iostream>
+	<unistd.h>
+	<conio.h>
+	<fstream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<deque>
+	<sstream>
+	<tchar.h>
+	<ctime>
+	<typeinfo>
+	<process.h>
+	<exception>
+	<ws2tcpip.h>
+	<windows.h>
+
+1452200062 c:\users\feet\desktop\amoebaserver\src\baselibraries\sockets.hpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<windows.h>
+
+1451403024 c:\users\feet\desktop\amoebaserver\src\baselibraries\thread.hpp
+	<windows.h>
+	<process.h>
+	<exception>
+	<unistd.h>
+
+1452198201 c:\users\feet\desktop\amoebaserver\src\networkframework\connection.hpp
+
+1451403024 c:\users\feet\desktop\amoebaserver\src\networkframework\connectionpool.hpp
+
+1451547986 c:\users\feet\desktop\amoebaserver\src\networkframework\networkmessage.hpp
+
+1451611100 c:\users\feet\desktop\amoebaserver\src\networkframework\networkframeworkmessages.hpp
+
+1451403024 c:\users\feet\desktop\amoebaserver\src\networkframework\codec.hpp
+
+1451403024 c:\users\feet\desktop\amoebaserver\src\networkframework\interpreter.hpp
+
+1451403024 c:\users\feet\desktop\amoebaserver\src\networkframework\connectionbuffer.hpp
+
+1452180611 c:\users\feet\desktop\amoebaserver\src\networkframework\networkmessagemailer.hpp
+
+1452185429 c:\users\feet\desktop\amoebaserver\src\networkframework\stringware.hpp
+
+1452180611 c:\users\feet\desktop\amoebaserver\src\networkframework\stringwarecontainer.hpp
+
+1452185111 c:\users\feet\desktop\amoebaserver\src\networkframework\cipher.hpp
+
+1452185228 c:\users\feet\desktop\amoebaserver\src\networkframework\compressionalgorithm.hpp
+
+1452185429 c:\users\feet\desktop\amoebaserver\src\networkframework\pairware.hpp
+
+1452180611 c:\users\feet\desktop\amoebaserver\src\networkframework\pairwarecontainer.hpp
+
+1452185429 c:\users\feet\desktop\amoebaserver\src\networkframework\messageware.hpp
+
+1452180611 c:\users\feet\desktop\amoebaserver\src\networkframework\messagewarecontainer.hpp
+
+1452180611 c:\users\feet\desktop\amoebaserver\src\networkframework\connectorthread.hpp
+
+1452022128 c:\users\feet\desktop\amoebaserver\src\networkframework\receiverthread.hpp
+
+1451403024 c:\users\feet\desktop\amoebaserver\src\networkframework\senderthread.hpp
+
+1452181481 c:\users\feet\desktop\amoebaserver\src\networkframework\networkcontroller.hpp
+
+1452180611 c:\users\feet\desktop\amoebaserver\src\networkframework\networkservercontroller.hpp
+
+1452180611 c:\users\feet\desktop\amoebaserver\src\networkframework\networkclientcontroller.hpp
+
+1452180611 c:\users\feet\desktop\amoebaserver\src\networkframework\datastreamlogger.hpp
+
+1452180611 c:\users\feet\desktop\amoebaserver\src\networkframework\keyvaluepairlogger.hpp
+
+1449892238 c:\users\feet\desktop\amoebaserver\src\networkmessages.hpp
+
+1452547104 c:\users\feet\desktop\amoebaserver\src\amoebacodec.hpp
+
+1452102608 c:\users\feet\desktop\amoebaserver\src\amoebainterpreter.hpp
+
+1452553616 c:\users\feet\desktop\amoebaserver\src\amoebanetworkservercontroller.hpp
+
+1452529016 c:\users\feet\desktop\amoebaserver\src\amoebanetworkclientcontroller.hpp
+
+1451403026 c:\users\feet\desktop\amoebaserver\src\physicsframework\physicsframework.hpp
+	"..\BaseLibraries\MathLib.hpp"
+	"PhysicalObject.hpp"
+	"TestPhysicalObject.hpp"
+	"PhysicsEngine.hpp"
+	"DefaultPhysicsEngine.hpp"
+
+1451403024 c:\users\feet\desktop\amoebaserver\src\baselibraries\mathlib.hpp
+	<algorithm>
+	<cmath>
+
+1452018656 c:\users\feet\desktop\amoebaserver\src\physicsframework\physicalobject.hpp
+
+1451403026 c:\users\feet\desktop\amoebaserver\src\physicsframework\testphysicalobject.hpp
+
+1451403026 c:\users\feet\desktop\amoebaserver\src\physicsframework\physicsengine.hpp
+
+1452531528 c:\users\feet\desktop\amoebaserver\src\physicsframework\defaultphysicsengine.hpp
+
+1450119948 c:\users\feet\desktop\amoebaserver\src\controller.hpp
+
+1450126454 c:\users\feet\desktop\amoebaserver\src\controllerthread.hpp
+
+1450385060 c:\users\feet\desktop\amoebaserver\src\models.hpp
+	"Pellet.hpp"
+	"Blob.hpp"
+	"BlobController.hpp"
+	"ViewWindow.hpp"
+	"Player.hpp"
+	"AIPlayer.hpp"
+
+1450378717 c:\users\feet\desktop\amoebaserver\src\pellet.hpp
+
+1450459275 c:\users\feet\desktop\amoebaserver\src\blob.hpp
+
+1450382948 c:\users\feet\desktop\amoebaserver\src\viewwindow.hpp
+
+1450383007 c:\users\feet\desktop\amoebaserver\src\player.hpp
+
+1450460291 c:\users\feet\desktop\amoebaserver\src\aiplayer.hpp
+
+1452532190 c:\users\feet\desktop\amoebaserver\src\gameworld.hpp
+
+1452028882 c:\users\feet\desktop\amoebaserver\src\checkloginthread.hpp
+
+1451548578 c:\users\feet\desktop\amoebaserver\src\command.hpp
+
+1452534558 c:\users\feet\desktop\amoebaserver\src\commands.hpp
+
+1452102718 c:\users\feet\desktop\amoebaserver\src\commandfactory.hpp
+
+1452105050 c:\users\feet\desktop\amoebaserver\src\gameworldpoller.hpp
+
+1452531842 c:\users\feet\desktop\amoebaserver\src\gamethread.hpp
+
+1452822343 source:c:\users\timothy\desktop\amoebaserver\src\amoebaserver.cpp
+	"GameLib.hpp"
+
+1452527974 c:\users\timothy\desktop\amoebaserver\src\gamelib.hpp
+	"MercuryFramework/Mercury.hpp"
+	"AmoebaNetworkMessages.hpp"
+	"Compressor.hpp"
+	"AmoebaCodec.hpp"
+	"AmoebaInterpreter.hpp"
+	"AmoebaNetworkServerController.hpp"
+	"AmoebaNetworkClientController.hpp"
+	"PhysicsFramework/PhysicsFramework.hpp"
+	"BaseLibraries/Bindable.hpp"
+	"BaseLibraries/DataBindingThread.hpp"
+	"GameWorldProperties.hpp"
+	"Models/Models.hpp"
+	"GameWorld.hpp"
+	"ScoreKeepingThread.hpp"
+	"CheckLoginThread.hpp"
+	"Command.hpp"
+	"Commands.hpp"
+	"CommandFactory.hpp"
+	"GameWorldPoller.hpp"
+	"GameThread.hpp"
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\networkframework\networkframework.hpp
+	"..\BaseLibraries\StandardFunctionsLib.hpp"
+	"..\BaseLibraries\Sockets.hpp"
+	"..\BaseLibraries\Thread.hpp"
+	"Connection.hpp"
+	"ConnectionPool.hpp"
+	"NetworkMessage.hpp"
+	"NetworkFrameworkMessages.hpp"
+	"Codec.hpp"
+	"Interpreter.hpp"
+	"ConnectionBuffer.hpp"
+	"NetworkMessageMailer.hpp"
+	"StringWare.hpp"
+	"StringWareContainer.hpp"
+	"Cipher.hpp"
+	"CompressionAlgorithm.hpp"
+	"PairWare.hpp"
+	"PairWareContainer.hpp"
+	"MessageWare.hpp"
+	"MessageWareContainer.hpp"
+	"ConnectorThread.hpp"
+	"ReceiverThread.hpp"
+	"SenderThread.hpp"
+	"NetworkController.hpp"
+	"NetworkServerController.hpp"
+	"NetworkClientController.hpp"
+	"DataStreamLogger.hpp"
+	"KeyValuePairLogger.hpp"
+
+1452548008 c:\users\timothy\desktop\amoebaserver\src\baselibraries\standardfunctionslib.hpp
+	<cstdlib>
+	<iostream>
+	<unistd.h>
+	<conio.h>
+	<fstream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<deque>
+	<sstream>
+	<tchar.h>
+	<ctime>
+	<typeinfo>
+	<process.h>
+	<exception>
+	<ws2tcpip.h>
+	<windows.h>
+
+1452200062 c:\users\timothy\desktop\amoebaserver\src\baselibraries\sockets.hpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<windows.h>
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\baselibraries\thread.hpp
+	<windows.h>
+	<process.h>
+	<exception>
+	<unistd.h>
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\networkframework\connection.hpp
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\networkframework\connectionpool.hpp
+
+1451547984 c:\users\timothy\desktop\amoebaserver\src\networkframework\networkmessage.hpp
+
+1451603816 c:\users\timothy\desktop\amoebaserver\src\networkframework\networkframeworkmessages.hpp
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\networkframework\codec.hpp
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\networkframework\interpreter.hpp
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\networkframework\connectionbuffer.hpp
+
+1451412430 c:\users\timothy\desktop\amoebaserver\src\networkframework\networkmessagemailer.hpp
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\networkframework\stringware.hpp
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\networkframework\stringwarecontainer.hpp
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\networkframework\cipher.hpp
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\networkframework\compressionalgorithm.hpp
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\networkframework\pairware.hpp
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\networkframework\pairwarecontainer.hpp
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\networkframework\messageware.hpp
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\networkframework\messagewarecontainer.hpp
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\networkframework\connectorthread.hpp
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\networkframework\receiverthread.hpp
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\networkframework\senderthread.hpp
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\networkframework\networkcontroller.hpp
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\networkframework\networkservercontroller.hpp
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\networkframework\networkclientcontroller.hpp
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\networkframework\datastreamlogger.hpp
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\networkframework\keyvaluepairlogger.hpp
+
+1450218538 c:\users\timothy\desktop\amoebaserver\src\networkmessages.hpp
+
+1452821554 c:\users\timothy\desktop\amoebaserver\src\amoebacodec.hpp
+
+1452881600 c:\users\timothy\desktop\amoebaserver\src\amoebainterpreter.hpp
+
+1452889381 c:\users\timothy\desktop\amoebaserver\src\amoebanetworkservercontroller.hpp
+
+1452702614 c:\users\timothy\desktop\amoebaserver\src\amoebanetworkclientcontroller.hpp
+
+1451403026 c:\users\timothy\desktop\amoebaserver\src\physicsframework\physicsframework.hpp
+	"..\BaseLibraries\MathLib.hpp"
+	"PhysicalObject.hpp"
+	"TestPhysicalObject.hpp"
+	"PhysicsEngine.hpp"
+	"DefaultPhysicsEngine.hpp"
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\baselibraries\mathlib.hpp
+	<algorithm>
+	<cmath>
+
+1452018656 c:\users\timothy\desktop\amoebaserver\src\physicsframework\physicalobject.hpp
+
+1451403026 c:\users\timothy\desktop\amoebaserver\src\physicsframework\testphysicalobject.hpp
+
+1451403026 c:\users\timothy\desktop\amoebaserver\src\physicsframework\physicsengine.hpp
+
+1452531528 c:\users\timothy\desktop\amoebaserver\src\physicsframework\defaultphysicsengine.hpp
+
+1450489952 c:\users\timothy\desktop\amoebaserver\src\controller.hpp
+
+1450489952 c:\users\timothy\desktop\amoebaserver\src\controllerthread.hpp
+
+1450489952 c:\users\timothy\desktop\amoebaserver\src\models.hpp
+	"Pellet.hpp"
+	"Blob.hpp"
+	"BlobController.hpp"
+	"ViewWindow.hpp"
+	"Player.hpp"
+	"AIPlayer.hpp"
+
+1450489952 c:\users\timothy\desktop\amoebaserver\src\pellet.hpp
+
+1450490924 c:\users\timothy\desktop\amoebaserver\src\blob.hpp
+
+1450489952 c:\users\timothy\desktop\amoebaserver\src\viewwindow.hpp
+
+1450489952 c:\users\timothy\desktop\amoebaserver\src\player.hpp
+
+1450492746 c:\users\timothy\desktop\amoebaserver\src\aiplayer.hpp
+
+1452877017 c:\users\timothy\desktop\amoebaserver\src\gameworld.hpp
+
+1452028882 c:\users\timothy\desktop\amoebaserver\src\checkloginthread.hpp
+
+1451548578 c:\users\timothy\desktop\amoebaserver\src\command.hpp
+
+1452534558 c:\users\timothy\desktop\amoebaserver\src\commands.hpp
+
+1452102718 c:\users\timothy\desktop\amoebaserver\src\commandfactory.hpp
+
+1452902517 c:\users\timothy\desktop\amoebaserver\src\gameworldpoller.hpp
+
+1452880819 c:\users\timothy\desktop\amoebaserver\src\gamethread.hpp
+
+1452738736 c:\users\timothy\desktop\amoebaserver\src\amoebanetworkmessages.hpp
+
+1451453606 c:\users\feet\desktop\amoebaserver\src\amoebanetworkmessages.hpp
+
+1450385863 c:\users\feet\desktop\amoebaserver\src\blobcontroller.hpp
+
+1450489950 source:c:\users\jackson makerspace\desktop\amoebaserver\src\amoebaserver.cpp
+	"GameLib.hpp"
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\gamelib.hpp
+	"NetworkFramework/NetworkFramework.hpp"
+	"AmoebaNetworkMessages.hpp"
+	"AmoebaCodec.hpp"
+	"AmoebaInterpreter.hpp"
+	"AmoebaNetworkServerController.hpp"
+	"AmoebaNetworkClientController.hpp"
+	"PhysicsFramework/PhysicsFramework.hpp"
+	"Controller.hpp"
+	"ControllerThread.hpp"
+	"Models.hpp"
+	"GameWorld.hpp"
+	"CheckLoginThread.hpp"
+	"Command.hpp"
+	"Commands.hpp"
+	"CommandFactory.hpp"
+	"GameWorldPoller.hpp"
+	"GameThread.hpp"
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\networkframework\networkframework.hpp
+	"..\BaseLibraries\StandardFunctionsLib.hpp"
+	"..\BaseLibraries\Sockets.hpp"
+	"..\BaseLibraries\Thread.hpp"
+	"Connection.hpp"
+	"ConnectionPool.hpp"
+	"NetworkMessage.hpp"
+	"NetworkFrameworkMessages.hpp"
+	"Codec.hpp"
+	"Interpreter.hpp"
+	"ConnectionBuffer.hpp"
+	"NetworkMessageMailer.hpp"
+	"StringWare.hpp"
+	"StringWareContainer.hpp"
+	"Cipher.hpp"
+	"CompressionAlgorithm.hpp"
+	"PairWare.hpp"
+	"PairWareContainer.hpp"
+	"MessageWare.hpp"
+	"MessageWareContainer.hpp"
+	"ConnectorThread.hpp"
+	"ReceiverThread.hpp"
+	"SenderThread.hpp"
+	"NetworkController.hpp"
+	"NetworkServerController.hpp"
+	"NetworkClientController.hpp"
+	"DataStreamLogger.hpp"
+	"KeyValuePairLogger.hpp"
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\baselibraries\standardfunctionslib.hpp
+	<cstdlib>
+	<iostream>
+	<unistd.h>
+	<conio.h>
+	<fstream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<deque>
+	<sstream>
+	<tchar.h>
+	<ctime>
+	<typeinfo>
+	<process.h>
+	<exception>
+	<ws2tcpip.h>
+	<windows.h>
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\baselibraries\sockets.hpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<windows.h>
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\baselibraries\thread.hpp
+	<windows.h>
+	<process.h>
+	<exception>
+	<unistd.h>
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\networkframework\connection.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\networkframework\connectionpool.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\networkframework\networkmessage.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\networkframework\networkframeworkmessages.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\networkframework\codec.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\networkframework\interpreter.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\networkframework\connectionbuffer.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\networkframework\networkmessagemailer.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\networkframework\stringware.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\networkframework\stringwarecontainer.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\networkframework\cipher.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\networkframework\compressionalgorithm.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\networkframework\pairware.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\networkframework\pairwarecontainer.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\networkframework\messageware.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\networkframework\messagewarecontainer.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\networkframework\connectorthread.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\networkframework\receiverthread.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\networkframework\senderthread.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\networkframework\networkcontroller.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\networkframework\networkservercontroller.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\networkframework\networkclientcontroller.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\networkframework\datastreamlogger.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\networkframework\keyvaluepairlogger.hpp
+
+1450489950 c:\users\jackson makerspace\desktop\amoebaserver\src\amoebanetworkmessages.hpp
+
+1450489950 c:\users\jackson makerspace\desktop\amoebaserver\src\amoebacodec.hpp
+
+1450489950 c:\users\jackson makerspace\desktop\amoebaserver\src\amoebainterpreter.hpp
+
+1450489950 c:\users\jackson makerspace\desktop\amoebaserver\src\amoebanetworkservercontroller.hpp
+
+1450489950 c:\users\jackson makerspace\desktop\amoebaserver\src\amoebanetworkclientcontroller.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\physicsframework\physicsframework.hpp
+	"..\BaseLibraries\MathLib.hpp"
+	"PhysicalObject.hpp"
+	"TestPhysicalObject.hpp"
+	"PhysicsEngine.hpp"
+	"DefaultPhysicsEngine.hpp"
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\baselibraries\mathlib.hpp
+	<algorithm>
+	<cmath>
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\physicsframework\physicalobject.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\physicsframework\testphysicalobject.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\physicsframework\physicsengine.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\physicsframework\defaultphysicsengine.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\controller.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\controllerthread.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\models.hpp
+	"Pellet.hpp"
+	"Blob.hpp"
+	"BlobController.hpp"
+	"ViewWindow.hpp"
+	"Player.hpp"
+	"AIPlayer.hpp"
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\pellet.hpp
+
+1450490922 c:\users\jackson makerspace\desktop\amoebaserver\src\blob.hpp
+
+1450489950 c:\users\jackson makerspace\desktop\amoebaserver\src\blobcontroller.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\viewwindow.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\player.hpp
+
+1450492744 c:\users\jackson makerspace\desktop\amoebaserver\src\aiplayer.hpp
+
+1450492867 c:\users\jackson makerspace\desktop\amoebaserver\src\gameworld.hpp
+
+1450489950 c:\users\jackson makerspace\desktop\amoebaserver\src\checkloginthread.hpp
+
+1450489950 c:\users\jackson makerspace\desktop\amoebaserver\src\command.hpp
+
+1450489950 c:\users\jackson makerspace\desktop\amoebaserver\src\commands.hpp
+
+1450489950 c:\users\jackson makerspace\desktop\amoebaserver\src\commandfactory.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\gameworldpoller.hpp
+
+1450489951 c:\users\jackson makerspace\desktop\amoebaserver\src\gamethread.hpp
+
+1450489952 c:\users\timothy\desktop\amoebaserver\src\blobcontroller.hpp
+
+1451403024 c:\users\feet\desktop\amoebaserver\src\baselibraries\bindable.hpp
+
+1452007844 c:\users\feet\desktop\amoebaserver\src\baselibraries\databindingthread.hpp
+
+1452530258 c:\users\feet\desktop\amoebaserver\src\gameworldproperties.hpp
+
+1452103968 c:\users\feet\desktop\amoebaserver\src\models\models.hpp
+	"Score.hpp"
+	"Pellet.hpp"
+	"Blob.hpp"
+	"BlobController.hpp"
+	"BigPellet.hpp"
+	"ScoreMultiplier.hpp"
+	"Poison.hpp"
+	"Splitter.hpp"
+	"Bomb.hpp"
+	"ViewWindow.hpp"
+	"Player.hpp"
+	"AIController.hpp"
+	"ScoreBoard.hpp"
+
+1451403024 c:\users\feet\desktop\amoebaserver\src\models\pellet.hpp
+
+1452104544 c:\users\feet\desktop\amoebaserver\src\models\blob.hpp
+
+1451447888 c:\users\feet\desktop\amoebaserver\src\models\blobcontroller.hpp
+
+1452018388 c:\users\feet\desktop\amoebaserver\src\models\poison.hpp
+
+1452104322 c:\users\feet\desktop\amoebaserver\src\models\splitter.hpp
+
+1452104322 c:\users\feet\desktop\amoebaserver\src\models\bomb.hpp
+
+1451930454 c:\users\feet\desktop\amoebaserver\src\models\viewwindow.hpp
+
+1451403024 c:\users\feet\desktop\amoebaserver\src\models\player.hpp
+
+1452530258 c:\users\feet\desktop\amoebaserver\src\models\aicontroller.hpp
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\baselibraries\bindable.hpp
+
+1452007844 c:\users\timothy\desktop\amoebaserver\src\baselibraries\databindingthread.hpp
+
+1452530258 c:\users\timothy\desktop\amoebaserver\src\gameworldproperties.hpp
+
+1452103968 c:\users\timothy\desktop\amoebaserver\src\models\models.hpp
+	"Score.hpp"
+	"Pellet.hpp"
+	"Blob.hpp"
+	"BlobController.hpp"
+	"BigPellet.hpp"
+	"ScoreMultiplier.hpp"
+	"Poison.hpp"
+	"Splitter.hpp"
+	"Bomb.hpp"
+	"ViewWindow.hpp"
+	"Player.hpp"
+	"AIController.hpp"
+	"ScoreBoard.hpp"
+
+1452837815 c:\users\timothy\desktop\amoebaserver\src\models\pellet.hpp
+
+1452104544 c:\users\timothy\desktop\amoebaserver\src\models\blob.hpp
+
+1451447888 c:\users\timothy\desktop\amoebaserver\src\models\blobcontroller.hpp
+
+1452018388 c:\users\timothy\desktop\amoebaserver\src\models\poison.hpp
+
+1452104322 c:\users\timothy\desktop\amoebaserver\src\models\splitter.hpp
+
+1452104322 c:\users\timothy\desktop\amoebaserver\src\models\bomb.hpp
+
+1452902787 c:\users\timothy\desktop\amoebaserver\src\models\viewwindow.hpp
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\models\player.hpp
+
+1452878929 c:\users\timothy\desktop\amoebaserver\src\models\aicontroller.hpp
+
+1451323740 c:\users\timothy\desktop\amoebaserver\src\gameworldmodels\gameworldmodels.hpp
+	"Score.hpp"
+	"ScoreBoard.hpp"
+	"Pellet.hpp"
+	"Blob.hpp"
+	"BlobController.hpp"
+	"Poison.hpp"
+	"Splitter.hpp"
+	"Bomb.hpp"
+	"ViewWindow.hpp"
+	"Player.hpp"
+	"AIController.hpp"
+
+1451322864 c:\users\timothy\desktop\amoebaserver\src\gameworldmodels\score.hpp
+
+1451322236 c:\users\timothy\desktop\amoebaserver\src\gameworldmodels\scoreboard.hpp
+
+1451315270 c:\users\timothy\desktop\amoebaserver\src\gameworldmodels\pellet.hpp
+
+1451324212 c:\users\timothy\desktop\amoebaserver\src\gameworldmodels\blob.hpp
+
+1451323920 c:\users\timothy\desktop\amoebaserver\src\gameworldmodels\blobcontroller.hpp
+
+1451315270 c:\users\timothy\desktop\amoebaserver\src\gameworldmodels\poison.hpp
+
+1451315270 c:\users\timothy\desktop\amoebaserver\src\gameworldmodels\splitter.hpp
+
+1451315268 c:\users\timothy\desktop\amoebaserver\src\gameworldmodels\bomb.hpp
+
+1451315270 c:\users\timothy\desktop\amoebaserver\src\gameworldmodels\viewwindow.hpp
+
+1451323940 c:\users\timothy\desktop\amoebaserver\src\gameworldmodels\player.hpp
+
+1451315268 c:\users\timothy\desktop\amoebaserver\src\gameworldmodels\aicontroller.hpp
+
+1451403024 c:\users\timothy\desktop\amoebaserver\src\models\score.hpp
+
+1451521240 c:\users\timothy\desktop\amoebaserver\src\models\scoreboard.hpp
+
+1451403024 c:\users\feet\desktop\amoebaserver\src\models\score.hpp
+
+1451521240 c:\users\feet\desktop\amoebaserver\src\models\scoreboard.hpp
+
+1452887128 c:\users\timothy\desktop\amoebaserver\src\scorekeepingthread.hpp
+
+1452028882 c:\users\feet\desktop\amoebaserver\src\scorekeepingthread.hpp
+
+1452104172 c:\users\feet\desktop\amoebaserver\src\models\bigpellet.hpp
+
+1452106674 c:\users\feet\desktop\amoebaserver\src\models\scoremultiplier.hpp
+
+1452186658 c:\users\feet\desktop\amoebaserver\src\compressor.hpp
+
+1452527974 c:\users\feet\desktop\amoebaserver\src\mercuryframework\mercury.hpp
+	"..\BaseLibraries\StandardFunctionsLib.hpp"
+	"..\BaseLibraries\Sockets.hpp"
+	"..\BaseLibraries\Thread.hpp"
+	"Connection.hpp"
+	"ConnectionPool.hpp"
+	"NetworkMessage.hpp"
+	"FrameworkeNetworkMessages.hpp"
+	"Codec.hpp"
+	"Interpreter.hpp"
+	"ConnectionBuffer.hpp"
+	"NetworkMessageMailer.hpp"
+	"StringWare.hpp"
+	"StringWareContainer.hpp"
+	"Cipher.hpp"
+	"CompressionAlgorithm.hpp"
+	"PairWare.hpp"
+	"PairWareContainer.hpp"
+	"MessageWare.hpp"
+	"MessageWareContainer.hpp"
+	"ConnectorThread.hpp"
+	"ReceiverThread.hpp"
+	"SenderThread.hpp"
+	"NetworkController.hpp"
+	"NetworkServerController.hpp"
+	"NetworkClientController.hpp"
+	"DataStreamLogger.hpp"
+	"KeyValuePairLogger.hpp"
+
+1452544398 c:\users\feet\desktop\amoebaserver\src\mercuryframework\connection.hpp
+
+1452546336 c:\users\feet\desktop\amoebaserver\src\mercuryframework\connectionpool.hpp
+
+1451547986 c:\users\feet\desktop\amoebaserver\src\mercuryframework\networkmessage.hpp
+
+1451611100 c:\users\feet\desktop\amoebaserver\src\mercuryframework\frameworkenetworkmessages.hpp
+
+1452547104 c:\users\feet\desktop\amoebaserver\src\mercuryframework\codec.hpp
+
+1452536754 c:\users\feet\desktop\amoebaserver\src\mercuryframework\interpreter.hpp
+
+1452551704 c:\users\feet\desktop\amoebaserver\src\mercuryframework\connectionbuffer.hpp
+
+1452180612 c:\users\feet\desktop\amoebaserver\src\mercuryframework\networkmessagemailer.hpp
+
+1452185430 c:\users\feet\desktop\amoebaserver\src\mercuryframework\stringware.hpp
+
+1452180612 c:\users\feet\desktop\amoebaserver\src\mercuryframework\stringwarecontainer.hpp
+
+1452550660 c:\users\feet\desktop\amoebaserver\src\mercuryframework\cipher.hpp
+
+1452550660 c:\users\feet\desktop\amoebaserver\src\mercuryframework\compressionalgorithm.hpp
+
+1452185430 c:\users\feet\desktop\amoebaserver\src\mercuryframework\pairware.hpp
+
+1452549480 c:\users\feet\desktop\amoebaserver\src\mercuryframework\pairwarecontainer.hpp
+
+1452185430 c:\users\feet\desktop\amoebaserver\src\mercuryframework\messageware.hpp
+
+1452549480 c:\users\feet\desktop\amoebaserver\src\mercuryframework\messagewarecontainer.hpp
+
+1452553784 c:\users\feet\desktop\amoebaserver\src\mercuryframework\connectorthread.hpp
+
+1452528540 c:\users\feet\desktop\amoebaserver\src\mercuryframework\receiverthread.hpp
+
+1451403024 c:\users\feet\desktop\amoebaserver\src\mercuryframework\senderthread.hpp
+
+1452662108 c:\users\feet\desktop\amoebaserver\src\mercuryframework\networkcontroller.hpp
+
+1452553734 c:\users\feet\desktop\amoebaserver\src\mercuryframework\networkservercontroller.hpp
+
+1452529008 c:\users\feet\desktop\amoebaserver\src\mercuryframework\networkclientcontroller.hpp
+
+1452550736 c:\users\feet\desktop\amoebaserver\src\mercuryframework\datastreamlogger.hpp
+
+1452180612 c:\users\feet\desktop\amoebaserver\src\mercuryframework\keyvaluepairlogger.hpp
+
+1452884075 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\mercury.hpp
+	"..\BaseLibraries\StandardFunctionsLib.hpp"
+	"..\BaseLibraries\Sockets.hpp"
+	"..\BaseLibraries\Thread.hpp"
+	"Connection.hpp"
+	"ConnectionPool.hpp"
+	"NetworkMessage.hpp"
+	"FrameworkeNetworkMessages.hpp"
+	"Codec.hpp"
+	"Interpreter.hpp"
+	"ConnectionBuffer.hpp"
+	"NetworkMessageMailer.hpp"
+	"StringWare.hpp"
+	"StringWareContainer.hpp"
+	"Cipher.hpp"
+	"CompressionAlgorithm.hpp"
+	"PairWare.hpp"
+	"PairWareContainer.hpp"
+	"MessageWare.hpp"
+	"MessageWareContainer.hpp"
+	"ConnectorThread.hpp"
+	"ReceiverThread.hpp"
+	"SenderThread.hpp"
+	"NetworkController.hpp"
+	"NetworkServerController.hpp"
+	"NetworkClientController.hpp"
+	"DataStreamLogger.hpp"
+	"KeyValuePairLogger.hpp"
+	"LagInjector.hpp"
+
+1452544398 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\connection.hpp
+
+1452546336 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\connectionpool.hpp
+
+1451547986 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\networkmessage.hpp
+
+1451611100 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\frameworkenetworkmessages.hpp
+
+1452547104 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\codec.hpp
+
+1452536754 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\interpreter.hpp
+
+1452551704 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\connectionbuffer.hpp
+
+1452832591 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\networkmessagemailer.hpp
+
+1452185430 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\stringware.hpp
+
+1452180612 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\stringwarecontainer.hpp
+
+1452550660 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\cipher.hpp
+
+1452550660 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\compressionalgorithm.hpp
+
+1452185430 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\pairware.hpp
+
+1452549480 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\pairwarecontainer.hpp
+
+1452185430 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\messageware.hpp
+
+1452549480 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\messagewarecontainer.hpp
+
+1452553784 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\connectorthread.hpp
+
+1452528540 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\receiverthread.hpp
+
+1452830336 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\senderthread.hpp
+
+1452662108 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\networkcontroller.hpp
+
+1452553734 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\networkservercontroller.hpp
+
+1452702614 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\networkclientcontroller.hpp
+
+1452550736 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\datastreamlogger.hpp
+
+1452180612 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\keyvaluepairlogger.hpp
+
+1452836288 c:\users\timothy\desktop\amoebaserver\src\compressor.hpp
+
+1452104172 c:\users\timothy\desktop\amoebaserver\src\models\bigpellet.hpp
+
+1452106674 c:\users\timothy\desktop\amoebaserver\src\models\scoremultiplier.hpp
+
+1452884193 c:\users\timothy\desktop\amoebaserver\src\mercuryframework\laginjector.hpp
+
